@@ -1,5 +1,5 @@
 :root {
-  background-color: #242424;
+  background-color: #091428;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -10,8 +10,8 @@
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
+  padding: 0;
   min-width: 320px;
   min-height: 100vh;
 }
+
